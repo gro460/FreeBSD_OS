@@ -1,5 +1,4 @@
-# FreeBSD_OS
- Haniya_Gebeyehu_BDU1601700
+
 <p align="center">
   <img src="logo.png" alt="FreeBSD_OS Logo" width="200"/>
 </p>
