@@ -12,7 +12,7 @@
 ---
 
 
-## 🧰 FreeBSD Installation on VMware
+## 🧰 FreeBSD Installation 
 
 This section includes a beginner-friendly guide to installing **FreeBSD 14.1** on **VMware Workstation Pro 17.6.3**.  
 It covers detailed steps from ISO download, VM setup, GUI environment configuration, and system optimization.  
